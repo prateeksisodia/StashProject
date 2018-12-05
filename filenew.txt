@@ -1,0 +1,3 @@
+git revert commit id
+git reset .
+git clean -fd
